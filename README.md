@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohsin Raza</h1>
 
-<!-- 🌟 GitHub Profile Banner -->
-
 <a href="https://github.com/Mohsin-Raza-developer">
   <img 
     alt="Banner" 
