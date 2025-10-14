@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#00bcd4;">Mohsin Raza</span></h1>
+<h1 align="center">Hi 👋, I'm <strong>Mohsin Raza</strong> 🧑‍💻</h1> 
 
 <a href="https://github.com/Mohsin-Raza-developer">
   <img 
@@ -80,11 +80,14 @@
 
 <h3 align="left">🛠️ Languages and Tools</h3>
 <p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
@@ -119,12 +122,6 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-  </a>
 </p>
 
 ---
@@ -140,3 +137,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohsin-raza-developer&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
   </picture>
 </p>
+
+---
+
+<img src="https://img.shields.io/badge/AI%20Agent%20Developer-00BCD4?style=flat&logo=openai&logoColor=white" alt="AI Agent Developer"/> <img src="https://img.shields.io/badge/Mohsin%20Raza-00BCD4?style=flat&logo=github&logoColor=white" alt="Mohsin Raza"/> <img src="https://img.shields.io/badge/Agentic%20AI%20Enthusiast-00BCD4?style=flat&logo=python&logoColor=white" alt="Agentic AI Enthusiast"/> <img src="https://img.shields.io/badge/Learning%20Advanced%20AI%20from%20PIAIC-00BCD4?style=flat&logo=graduation-cap&logoColor=white" alt="Learning from PIAIC"/> <img src="https://img.shields.io/badge/Ask%20me%20about-Python%20%7C%20Agentic%20AI-00BCD4?style=flat&logo=githubcopilot&logoColor=white" alt="Ask me about Python | Agentic AI"/> <a href="mailto:hassansk032183@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Contact%20Me-00BCD4?style=flat&logo=gmail&logoColor=white" alt="Email Me"/> </a> <a href="https://github.com/Mohsin-Raza-developer" target="_blank"> <img src="https://img.shields.io/badge/My%20GitHub-00BCD4?style=flat&logo=github&logoColor=white" alt="My GitHub"/> </a> <a href="https://linkedin.com/in/mohsin-raza-ag01" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-00BCD4?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
+
+
