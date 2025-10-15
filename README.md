@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <strong>Mohsin Raza</strong> 🧑‍💻</h1> 
+<h1 align="center">Hello 👋, I'm <strong>Mohsin Raza</strong> 🧑‍💻 </h1>
 
 <a href="https://github.com/Mohsin-Raza-developer">
   <img 
@@ -7,7 +7,6 @@
     style="width:100%; max-width:1200px; height:auto; display:block; margin:0 auto; border-radius:20px; box-shadow:0 4px 12px rgba(0,0,0,0.2);" 
   />
 </a>
-
 
 <!-- ✨ HEADER -->
 <h3 align="center">
@@ -33,7 +32,6 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
   <!-- DevOps & Cloud -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -60,6 +58,9 @@
 - 💬 Ask me about **Agentic AI**, **Python**, and related **frameworks, libraries, and development tools**.  
 - 📫 Reach me at **hassansk032183@gmail.com**  
 - ⚡ Fun fact: **I’m known for my calm and polite nature.**
+<p align="">
+  <img src="https://komarev.com/ghpvc/?username=mohsin-raza-developer&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
@@ -90,7 +91,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQSMkat3wWKR6ke_PFliKlBbTEunnnjr5bMdva41vL8lAChIrHpQhhlQ_eZNyVuL9SIqs&usqp=CAU" alt="flask" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -99,7 +100,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+    <img src="https://www.soup.io/wp-content/uploads/2024/06/11-Tips-for-Getting-Started-with-Apache-Kafka-1024x576.png" alt="kafka" width="60" height="80"/>
   </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
