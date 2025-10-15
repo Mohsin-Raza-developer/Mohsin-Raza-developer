@@ -127,7 +127,7 @@
 
 ---
 ### 🔥 Most Used Languages
-<p align="center">
+<p align="">
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=mohsin-raza-developer&show_icons=true&locale=en&layout=compact&theme=tokyonight" 
