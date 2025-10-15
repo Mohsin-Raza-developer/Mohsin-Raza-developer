@@ -126,7 +126,7 @@
 </p>
 
 ---
-
+### 🔥 Most Used Languages
 <p align="center">
   <picture>
     <source 
@@ -144,5 +144,3 @@
 <img src="https://img.shields.io/badge/AI%20Agent%20Developer-00BCD4?style=flat&logo=openai&logoColor=white" alt="AI Agent Developer"/> <img src="https://img.shields.io/badge/Mohsin%20Raza-00BCD4?style=flat&logo=github&logoColor=white" alt="Mohsin Raza"/> <img src="https://img.shields.io/badge/Agentic%20AI%20Enthusiast-00BCD4?style=flat&logo=python&logoColor=white" alt="Agentic AI Enthusiast"/> <img src="https://img.shields.io/badge/Learning%20Advanced%20AI%20from%20PIAIC-00BCD4?style=flat&logo=graduation-cap&logoColor=white" alt="Learning from PIAIC"/> <img src="https://img.shields.io/badge/Ask%20me%20about-Python%20%7C%20Agentic%20AI-00BCD4?style=flat&logo=githubcopilot&logoColor=white" alt="Ask me about Python | Agentic AI"/> <a href="mailto:hassansk032183@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Contact%20Me-00BCD4?style=flat&logo=gmail&logoColor=white" alt="Email Me"/> </a> <a href="https://github.com/Mohsin-Raza-developer" target="_blank"> <img src="https://img.shields.io/badge/My%20GitHub-00BCD4?style=flat&logo=github&logoColor=white" alt="My GitHub"/> </a> <a href="https://linkedin.com/in/mohsin-raza-ag01" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-00BCD4?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a>
-
-
